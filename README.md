@@ -12,7 +12,7 @@
 <br>
 <br>
 
-
+<h3> </h3>
 
 <h3>🛠 Languages and Tools </h3>
 <p>
@@ -28,17 +28,17 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
 
-<a href="#"> 
+<a href="https://brazen-ferryboat-157.notion.site/705be74873d6489688b3629b4916a720?pvs=4"> 
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
-<a href="#"> 
+<a href="https://www.figma.com/file/9G2dTEuMULbyxztnQ9Kx4C/%ED%8F%AC%ED%8F%B4?type=design&node-id=146%3A115&mode=design&t=9dJ1yMgj745KCa4y-1"> 
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 <br>
 <br>
 <br>
 
-<h3>📞 연락이 필요하시면 아래 연락처로 연락주세요!</h3>
+<h3>📞 연락이 필요하시면 아래 연락처로 언제든 연락주세요!</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 010 1234 1234</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ seseminahn@gmail.com</p>
 <br>
