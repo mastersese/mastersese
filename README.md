@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=300&section=header&text=Semin%20Ahn&fontSize=90" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=210&section=header&text=Hi,%20I'm%20Semin%20Ahn&fontSize=72" />
+<h3 >안세민입니다!</h3>
 <h3>🛠 Tools </h3>
 <p>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
