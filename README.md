@@ -1,6 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=210&section=header&text=Hi,%20I'm%20Semin%20Ahn&fontSize=72" />
-<h3 >안세민입니다!</h3>
-<h3>🛠 Tools </h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=210&section=header&text=Hi,%20I'm%20Semin%20Ahn&fontSize=72" />
+</div>
+
+<h3 align="center">프론트앤드 개발자 안세민 입니다. </h3>
+<p align="center">
+  안녕하세요! 저는 프론트 엔드 개발자로의 꿈을 키우고 있는 <b>안세민</b>입니다. 새로운 기술과 디자인 트렌드에 대한 열정과 호기심을 가지고 있으며, 웹사이트와 웹 애플리케이션을 통해 사용자들에게 최고의 경험을 제공하기 위해 노력하고 있습니다. 
+</p>
+<p align="center">
+  HTML, CSS, JavaScript를 비롯한 웹 기술에 대한 지식과 경험을 바탕으로, 사용자 친화적이고 직관적인 인터페이스를 설계하고 구현하는 것을 즐깁니다. 사용자의 니즈를 이해하고 그에 맞게 기술을 적용하여 더 나은 사용자 경험을 제공하는 것이 제 목표입니다.
+</p>
+<br>
+<br>
+
+<h3>📞 연락이 필요하시면 아래 연락처로 연락주세요!</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 010 1234 1234</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ seseminahn@gmail.com</p>
+<br>
+
+<h3>🛠 Languages and Tools </h3>
 <p>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -14,15 +31,13 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
 
-<!--
-<a href=" "> 
+<a href="#"> 
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
-
-<a href=" "> 
+<a href="#"> 
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
--->
+
 
 
 
