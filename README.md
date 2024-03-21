@@ -1,6 +1,30 @@
 ### Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=waving%20render&fontSize=90" />
 안녕
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=white%font-color=ffffff&height=300&section=header&text=안녕하세요!&fontSize=90" />
+
+
+<h3>🛠 Tools </h3>
+<!-- <img src="https://img.shields.io/badge/Java-107EDE.svg?&style=for-the-badge&logo=java&logoColor=white" /> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **mastersese/mastersese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
