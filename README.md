@@ -12,6 +12,11 @@
 <br>
 <br>
 
+[![semin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastersese&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+
+
+출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
+
 <h3>🛠 Languages and Tools </h3>
 <p>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
