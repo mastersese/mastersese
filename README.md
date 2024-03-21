@@ -36,7 +36,6 @@
 <br>
 <br>
 
-<h3>🖥 Projects</h3>
 <h3>📞 연락이 필요하시면 아래 연락처로 언제든 연락주세요!</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 010 1234 1234</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ seseminahn@gmail.com</p>
