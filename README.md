@@ -26,12 +26,16 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
 
-<a href="https://brazen-ferryboat-157.notion.site/705be74873d6489688b3629b4916a720?pvs=4"> 
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</a>
-<a href="https://www.figma.com/file/9G2dTEuMULbyxztnQ9Kx4C/%ED%8F%AC%ED%8F%B4?type=design&node-id=146%3A115&mode=design&t=9dJ1yMgj745KCa4y-1"> 
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</a>
+<p>
+  <a href="https://brazen-ferryboat-157.notion.site/705be74873d6489688b3629b4916a720?pvs=4"> 
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+  <a href="https://www.figma.com/file/9G2dTEuMULbyxztnQ9Kx4C/%ED%8F%AC%ED%8F%B4?type=design&node-id=146%3A115&mode=design&t=9dJ1yMgj745KCa4y-1"> 
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+</p>
 <br>
 <br>
 <br>
