@@ -12,10 +12,9 @@
 <br>
 <br>
 
-[![semin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastersese&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 
-출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
+
 
 <h3>🛠 Languages and Tools </h3>
 <p>
@@ -50,7 +49,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 010 1234 1234 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ seseminahn@gmail.com
 </p>
+<br>
+<br>
+<br>
 
+[![semin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastersese&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 
 
